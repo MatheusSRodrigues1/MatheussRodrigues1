@@ -1,7 +1,7 @@
 <div align="center" >
   
-  <h1> 🙏
-HI, I'm Matheus 🙏
+  <h1> 
+Hi, I'm Matheus 
 </h1>
 
 </div>
